@@ -12,7 +12,7 @@ display_board(board_1)
 board_2 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_2)
 
-board_3 = ["O", " ", " ", " ", " ", " ", " ", " ", " "] 
+board_3 = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board_3)
 
 board_4 = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
@@ -33,7 +33,7 @@ display_board(board_8)
 board_9 = ["X", "O", "O", " ", " ", " ", "X", " ", " "]
 display_board(board_9)
 
-board_10 = ["X", "X", "X", "X", "X", "X", "X", "X", "X"] 
+board_10 = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 display_board(board_10)
 
 board_11 = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
